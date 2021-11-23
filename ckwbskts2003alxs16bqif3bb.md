@@ -1,8 +1,8 @@
 ## WordPress website hosting using AWS
 
-This document deals with three tasks — creating a WordPress Instance on AWS, A form to add photos and comments and the Security aspects of the website.
+This article deals with three tasks — creating a WordPress Instance on AWS, A form to add photos and comments and the Security aspects of the website.
 
-This document is divided into three parts. References at the end.
+This article is divided into three parts. References at the end.
 
 1.  Creation of a Wordpress Instance on AWS
 2.  Adding Photos and Comments
