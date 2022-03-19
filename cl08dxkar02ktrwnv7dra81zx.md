@@ -1,4 +1,4 @@
-## Open Source and 100 Days of Code: Week 2 to 6 Update
+## Open Source and 100 Days of Code: Week 2 Update
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646154518690/Oi0P9nyKv.png)
